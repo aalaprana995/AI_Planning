@@ -1,0 +1,3 @@
+#!/bin/bash 
+
+    java -classpath /home/aalaprana/CMSC722/ENHSP-Public/src/:/home/aalaprana/CMSC722/ENHSP-Public/libs/PPMaJal2.jar:/home/aalaprana/CMSC722/ENHSP-Public/libs/* ENHSP "$@"
